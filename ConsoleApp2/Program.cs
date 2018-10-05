@@ -14,6 +14,7 @@ namespace ConsoleApp2
             Console.WriteLine("ok");
             Console.WriteLine("哈哈");
             Console.WriteLine("test");
+            Console.WriteLine("你好");
         }
     }
 }
