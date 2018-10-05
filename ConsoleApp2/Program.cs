@@ -13,7 +13,7 @@ namespace ConsoleApp2
             Console.WriteLine("nice");
             Console.WriteLine("ok2");
             string str = null;
-            //string str = null;
+            string str2 = null;
             Console.WriteLine();
         }
     }
